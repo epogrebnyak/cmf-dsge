@@ -1,0 +1,9 @@
+https://www.stata.com/manuals/dsge.pdf
+https://www.sas.upenn.edu/~jesusfv/econometricsDSGE.pdf
+http://users.ox.ac.uk/~exet2581/Boe/dsge_all.pdf
+http://www.sipotra.it/wp-content/uploads/2017/05/DSGE-Models-in-the-Conduct-of-Policy-Use-as-intended.pdf
+https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_1_HPC_Economics.pdf
+https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_8_Julia.pdf
+https://www.sas.upenn.edu/~jesusfv/Lecture_SM_5_Appendix_Linearization.pdf
+https://www.bis.org/publ/work258.htm
+https://mostlyeconomics.wordpress.com/2009/04/13/a-primer-on-dsge-models/
